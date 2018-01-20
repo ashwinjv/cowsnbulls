@@ -1,0 +1,17 @@
+$cnb-light: #fff;
+$cnb-dark: #1C313B;
+$cnb-dark-gray: #74838d;
+$cnb-green: #4ae287;
+$cnb-gray: #d0d0d0;
+$cnb-light-green: #bde6de;
+$cnb-red: #f5523d;
+
+$theme-colors: (
+  "cnb-light": $cnb-light,
+  "cnb-dark": $cnb-dark,
+  "cnb-green": $cnb-green,
+  "cnb-gray": $cnb-gray,
+  "cnb-dark-gray": $cnb-dark-gray,
+  "cnb-light-green": $cnb-light-green,
+  "cnb-red": $cnb-red
+);
